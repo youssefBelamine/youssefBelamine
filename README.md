@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef Belamine</h1>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hxZzNwOXFsanl5dThkaWMxNjV1d2R3NmZuMDNraHN3am85bjFoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" />
 <h3 align="center">A passionate Full-Stack developer</h3>
 
 - ⚡ Fun fact **I love Programming**
@@ -12,7 +13,7 @@
             
           
 <p align="left"> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"></a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></a>
             
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 
