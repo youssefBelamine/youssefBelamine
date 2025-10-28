@@ -33,6 +33,7 @@
 
 🧑‍💻 **Project Management & Methodologies**
 <br>
+
 ![Agile](https://img.shields.io/badge/-Agile-%23007396?style=flat-square&logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/-Scrum-%230A0FFF?style=flat-square&logo=scrumalliance&logoColor=white)
 ![Kanban](https://img.shields.io/badge/-Kanban-%233498DB?style=flat-square&logo=trello&logoColor=white)
@@ -49,6 +50,7 @@
 
 📚 **UI Frameworks**
 <br>
+
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 ![Windicss](https://img.shields.io/badge/-bootstrap-%23000000?style=flat-square&logo=bootstrap&&logoColor=48B0F1)
 ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
@@ -59,6 +61,7 @@
 
 🚩 **Module Bundlers** <br>
 <br>
+
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
 
@@ -74,6 +77,11 @@
 
 ### 📈 Some stats
 <br>
+<div>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefbelamine&show_icons=true&locale=en&layout=compact" alt="youssefbelamine" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssefbelamine&show_icons=true&locale=en" alt="youssefbelamine" /></p>
+
+</div>
+
