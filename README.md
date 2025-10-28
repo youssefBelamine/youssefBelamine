@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Youssef Belamine</h1>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hxZzNwOXFsanl5dThkaWMxNjV1d2R3NmZuMDNraHN3am85bjFoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" />
 <h3 align="center">A passionate Full-Stack developer</h3>
+<img  align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hxZzNwOXFsanl5dThkaWMxNjV1d2R3NmZuMDNraHN3am85bjFoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" />
 
 - ⚡ Fun fact **I love Programming**
 
