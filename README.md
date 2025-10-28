@@ -9,7 +9,7 @@
 - 📫 Reach me at **youssefbelamine23@gmail.com** <br>
 - 💼 I’m open to new **Internship opportunities**
 - 🤓 Always **learning new things** <br>
-- 🐼 I do my best to do my job and satisfy my passion <br>
+- 🐼 I do my best to do my job and satisfy my passion. <br>
 <!-- - — here’s [**my CV**](https://drive.google.com/file/d/1IDLAtqMESCvgjF8QRbOhc1NbWyj18CkV/view?usp=sharing) <br> -->
 ---
 
@@ -35,11 +35,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 
 ---
 
