@@ -2,7 +2,7 @@
   <br> <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmFrb29hYTZyb3JleGQyaW1tMWt2cGdpNWZra3FucHRwajN6cnA4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" width = 150px />
 
 - 🌱 I’m currently studing `Next.js & Typescript` <br>
-- 📫 How to reach me <br> **youssefbelamine23@gmail.com**
+- 📫 How to reach me  **youssefbelamine23@gmail.com**
 - :thinking: I’m currently open for: new `Internship opportunity`,this is [MY CV](https://drive.google.com/file/d/1IDLAtqMESCvgjF8QRbOhc1NbWyj18CkV/view?usp=sharing). - :nerd_face: Always `learning new things`<br>
 - 🐼 I do my best to do my job and satisfy my passion. <br>
 
@@ -26,6 +26,7 @@
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 
+
 🧑‍💻 **Project Management & Methodologies**
 
 ![Agile](https://img.shields.io/badge/-Agile-%23007396?style=flat-square&logo=agile&logoColor=white)
@@ -38,6 +39,7 @@
 <!-- ![ClickUp](https://img.shields.io/badge/-ClickUp-%237B68EE?style=flat-square&logo=clickup&logoColor=white) -->
 <!-- ![Slack](https://img.shields.io/badge/-Slack-%234A154B?style=flat-square&logo=slack&logoColor=white) -->
 
+
 📚 **UI Frameworks**
 <br>
 <br>
@@ -45,16 +47,19 @@
 ![Windicss](https://img.shields.io/badge/-bootstrap-%23000000?style=flat-square&logo=bootstrap&&logoColor=48B0F1)
 ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
 
+
 🚩 **Module Bundlers** <br>
 <br>
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
+
 
 🌍 **Deployment Tools:**
 <br>
 <br>
 
 <p align="left"> <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="28"/> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="28"/> <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" height="28"/> <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" alt="NPM" height="28"/> <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" height="28"/> </p>
+
 
 ### 📈 Some stats
 
