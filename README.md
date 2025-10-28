@@ -55,7 +55,7 @@
 <br>
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![Github](https://img.shields.io/badge/-Github-FCA121?style=flat-square&logo=gitlab)
+![Github](https://img.shields.io/badge/-Github-ffffff?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
