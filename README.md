@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently studying **Next.js & TypeScript** <br>
 - 📫 Reach me at **youssefbelamine23@gmail.com** <br>
-- 💼 I’m open to new **Internship opportunities** — here’s [**my CV**](https://drive.google.com/file/d/1IDLAtqMESCvgjF8QRbOhc1NbWyj18CkV/view?usp=sharing) <br>
+- 💼 I’m open to new **Internship opportunities**
+<!-- - — here’s [**my CV**](https://drive.google.com/file/d/1IDLAtqMESCvgjF8QRbOhc1NbWyj18CkV/view?usp=sharing) <br> -->
 - 🤓 Always **learning new things** <br>
 - 🐼 I do my best to do my job and satisfy my passion <br>
 
