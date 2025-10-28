@@ -11,7 +11,7 @@
 <p align="center"> <a href="mailto:youssefbelamine23@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/youssef-belamine-59a317176/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br> </p> <br> <br> <h3 align="center">
 
 #### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-
+<br>
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -26,13 +26,19 @@
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 
+<br>
+<br>
+
 
 🧑‍💻 **Project Management & Methodologies**
-
+<br>
 ![Agile](https://img.shields.io/badge/-Agile-%23007396?style=flat-square&logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/-Scrum-%230A0FFF?style=flat-square&logo=scrumalliance&logoColor=white)
 ![Kanban](https://img.shields.io/badge/-Kanban-%233498DB?style=flat-square&logo=trello&logoColor=white)
 ![Waterfall](https://img.shields.io/badge/-Waterfall-%23E34F26?style=flat-square&logoColor=white)
+
+<br>
+<br>
 
 <!-- 📋 **Collaboration & Management Tools** -->
 
@@ -42,10 +48,12 @@
 
 📚 **UI Frameworks**
 <br>
-<br>
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 ![Windicss](https://img.shields.io/badge/-bootstrap-%23000000?style=flat-square&logo=bootstrap&&logoColor=48B0F1)
 ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
+
+<br>
+<br>
 
 
 🚩 **Module Bundlers** <br>
@@ -53,16 +61,18 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
 
+<br>
+<br>
 
 🌍 **Deployment Tools:**
 <br>
-<br>
-
 <p align="left"> <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="28"/> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="28"/> <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" height="28"/> <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" alt="NPM" height="28"/> <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" height="28"/> </p>
 
+<br>
+<br>
 
 ### 📈 Some stats
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefbelamine&show_icons=true&locale=en&layout=compact" alt="youssefbelamine" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssefbelamine&show_icons=true&locale=en" alt="youssefbelamine" /></p>
